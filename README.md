@@ -42,17 +42,16 @@
 </table>
 <img align="right" alt="Coding" width="500"src="https://media1.tenor.com/m/b_8u-SvLCy8AAAAd/krishna-little-krishna.gif">
 
-### ✔️ I'm currently learning <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<!-- ### ✔️ I'm currently learning <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - Cyber Security 🔐
 - Design Analysis and Algorithm ⚛️
 - GUI using Python ☁️
 - Drone Technology 🚀
 - C++ OOP 💻
-- German Language💭
+- German Language💭 -->
 
 ### 💻 I'm working on
-- php Projects 🚀
-- mini projects 🔥
+- University level project🚀🔥
 
 ### 💭 Ask me about
 - Designing 🎨
@@ -67,24 +66,32 @@
 
 
       <img My Medium="🔥href="https://medium.com/@sudeki22"></img> 
+      <img My Wattpad="✏️href="https://www.wattpad.com/user/sudeki47"></img> 
 
   <h3>💻 GitHub Profile Stats</h3>
-  <!-- https://github.com/14bhuvi/github-readme-stats -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=14bhuvi&show_icons=true&locale=en&layout=compact" alt="14bhuvi" /></p>
+  <!-- https://github.com/16bhuvi/github-readme-stats -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=16bhuvi&show_icons=true&locale=en&layout=compact" alt="16bhuvi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=14bhuvi&show_icons=true&locale=en" alt="14bhuvi" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=16bhuvi&show_icons=true&locale=en" alt="16bhuvi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=14bhuvi&" alt="14bhuvi" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=16bhuvi&" alt="16bhuvi" /></p>
 
 ### Trophies
 
 <p align="center">
-  <a href="https://github-profile-trophy.vercel.app/?username=14bhuvi&theme=buddhism"><img src="https://github-profile-trophy.vercel.app/?username=14bhuvi&theme=buddhism"></a>
+  <a href="https://github-profile-trophy.vercel.app/?username=16bhuvi&theme=buddhism"><img src="https://github-profile-trophy.vercel.app/?username=16bhuvi&theme=buddhism"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="code.visualstudio.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VScode" width="40" height="40"/> </a> <a href="
-jupyter.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter" width="40" height="40"/> </a> <a href="onecompiler.com" target="_blank" rel="noreferrer"> <img src="https://play-lh.googleusercontent.com/J2AsAmkERwVdShhU8Bbn2_xN5ou5QVmlo4zyl4JoZd5WM23n3tCUcynJXjwy-06rmW4" alt="One Compiler" width="40" height="40"/> </a><a href="https://onlinenotepad.org/notepad#google_vignette" target="_blank" rel="noreferrer"> <img src="https://logos-download.com/wp-content/uploads/2017/07/HTML5_logo.png" alt="HTML" width="40" height="40"/> </a><a href="https://scratch.mit.edu/" target="_blank" rel="noreferrer"> <img src="https://tse3.mm.bing.net/th?id=OIP.frVHVczPjnUxQASmggqMiAHaHa&pid=Api&P=0&h=220" alt="Scratch" width="40" height="40"/> </a><a href="https://en.wikipedia.org/wiki/CSS" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS" width="40" height="40"/></a><a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="40" height="40"/></a></p>
+<p align="left">
+    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+    <a href="https://www.mongodb.com/products/tools/compass" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1aququuxTXwpYCcLioAWb--XpaYwDknSW3A&s" alt="MongoDB Compass" width="40" height="40"/> </a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+    <a href="code.visualstudio.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VScode" width="40" height="40"/> </a>
+    <a href="jupyter.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter" width="40" height="40"/> </a>
+    <a href="https://onlinenotepad.org/notepad#google_vignette" target="_blank" rel="noreferrer"> <img src="https://logos-download.com/wp-content/uploads/2017/07/HTML5_logo.png" alt="HTML" width="40" height="40"/> </a>
+    <a href="https://en.wikipedia.org/wiki/CSS" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS" width="40" height="40"/></a><a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="40" height="40"/></a>><a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://www.csestack.org/wp-content/uploads/2023/08/java-logo.webp" alt="Java" width="40" height="40"/></a></p>
 
 
  
@@ -95,7 +102,7 @@ jupyter.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedi
 
 </div>
 
-<a href="https://github.com/14bhuvi/github-readme-activity-graph"><img alt="Bhuvi's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=14bhuvi&theme=github-dark"/></a>
+<a href="https://github.com/16bhuvi/github-readme-activity-graph"><img alt="Bhuvi's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=16bhuvi&theme=github-dark"/></a>
 
 
 </details>
@@ -132,13 +139,14 @@ A little more about me...</h2></summary>
         self.current_year = 2025
     def doing(self, now):
        if now == self.current_year:
-            return f"I am currently 2nd year engg stud, learning {Information and technology} at Banasthali Vidyapeeth"
+            return f"I am currently 3rd year engg stud, learning {Information and technology} at Banasthali Vidyapeeth"
     pronouns = "She | her"
-    code and compiler = ["VScode🚀", "DEV-C++🅒", "Pycharm🐍", "Jupyter☕", "one compiler🐘", "MSdos🎯"]
-    askMeAbout = ["programmer🌐", "Foody🍔", "creative fingers", "Drawing✏️","Curious","Learner"]
-    technologies = {'languages':["html","C++","CSS","python","turtel","C","Scratch"], 'databases': ["mariadb🍃", "MySql🐬", "excel🛢️"],}
+    code and compiler = ["VScode🚀", "DEV-C++🅒", "Pycharm🐍", "Jupyter☕", "NetBeans🐘"]
+    operating system = ["CloudEra🎯", "Windows"]
+    askMeAbout = ["Programmer🌐", "Foody🍔", "Creative fingers", "All purpose Developer✏️","Curious","Learner"]
+    technologies = {'languages':["C++","Python","Java","C"], 'databases': ["MongDB Compass🍃", "MySql🐬", "Excel🛢️"],'Concepts' : ["OOP", "DSA" , "Web Dev"], 'Tools' : ["Git"]}
     architecture = ["Serverless Architecture", "Autocadd", "Single page applications","Drone technology"]
-    currentProject = "ACE up yourself (Student Scheduler)"
+    currentProject = "BanVerse, Student and Club engagement platform"
     funFact = "We are humans :)"
 
 me = ReadMe()
