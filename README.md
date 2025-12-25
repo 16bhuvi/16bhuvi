@@ -3,7 +3,7 @@
     <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjYwemFteHFrNmg1Zno1YWZsNmRrZzNkbG9xaHBzZXJnMTV5enB0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WuZFeCtAKwjkY/giphy.gif" width="50"></p> 
   <p align="center">
   <a href="https://github.com/Hunterdii/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Future's%20Professional%20IT%20Engg;3%2B%20Years%20of%20Learning%20Coding;Always%20Learning%20Great%20Things&font=Shantell+Sans&size=21%20Code&center=true&width=440&height=45&color=f1c40f &vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Future's%20Professional%20IT%20Engg;3%2B%20Years%20of%20Learning%20Coding;Always%20Learning%20Great%20Things&font=Shantell+Sans&size=21%20Code&center=true&width=400&height=40&color=f1c40f &vCenter=true&pause=1000&size=22" /></a>
       <!--1abc9c,e74c3c,3498db,2ecc71,9b59b6,f39c12
       Certainly! Here are some additional unique and special color codes:
       1. #f1c40f - Goldenrod
