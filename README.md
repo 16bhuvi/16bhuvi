@@ -107,8 +107,7 @@
 
 </details>
 <details> 
-  <summary><h2>📺 CLICK HERE! Also Above My YouTube Please Give A Subscribe</h2><br><h2>📺 Read about me more on you left (my profile)</h2></summary>
-   <h1> 😎 <em> I Will Make Sure To Do Entertain With My Content </em> 🤪 </h1>
+   <h1> 😎 <em> I Will Make Sure To Entertain With My Content </em> 🤪 </h1>
  
 <!--Quotes!--> 
 <div align="center">
