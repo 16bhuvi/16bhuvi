@@ -73,7 +73,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/16bhuvi/16bhuvi/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/16bhuvi/16bhuvi/snake.yml" />
 </p>
 
 ---
