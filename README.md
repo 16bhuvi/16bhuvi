@@ -1,106 +1,97 @@
-<h1 align="center">Hi 👋, I'm Bhuvi Vishwakarma</h1>
-<h3 align="center">💻 IT Engineering Student | Creative Developer | Lifelong Learner</h3>
+<h1 align="center">Bhuvi Vishwakarma</h1>
 
 <p align="center">
-  <a href="https://about-bhuvi.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel">
-  </a>
-  <a href="https://www.linkedin.com/in/bhuvi-vishwakarma-447a3b217">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="https://discord.com/users/1125007717703094384">
-    <img src="https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord">
-  </a>
+  <i>IT Engineering Student • Developer • Designer</i>
+</p>
+
+<p align="center">
+  Building practical solutions with clean design and efficient code.
+</p>
+
+<p align="center">
+  🌐 <a href="https://about-bhuvi.netlify.app/">Portfolio</a> &nbsp;•&nbsp;
+  💼 <a href="https://www.linkedin.com/in/bhuvi-vishwakarma-447a3b217">LinkedIn</a> &nbsp;•&nbsp;
+  💬 <a href="https://discord.com/users/1125007717703094384">Discord</a>
 </p>
 
 ---
 
-## ✨ About Me
+## 👩‍💻 Profile
 
-- 🎓 3rd Year IT Engineering Student  
-- 🚀 Working on **University-Level Projects**  
-- 💡 Passionate about **Design, Development & Creative Tech**  
-- 🎯 Looking for **Internships & Collaborations**  
-- ⚡ Fun Fact:  
-  `Code = 20% Me + 20% StackOverflow + 35% AI + 20% YouTube + 5% Google`
+A third-year IT engineering student focused on building real-world applications and continuously improving problem-solving skills. Interested in development, design, and emerging technologies, with a strong inclination toward creating meaningful and scalable solutions.
 
 ---
 
-## 💻 Tech Stack
+## ⚡ What I'm Doing
 
-### 👩‍💻 Languages
+- 🚀 Developing **university-level and practical projects**  
+- 📚 Strengthening **DSA and core concepts**  
+- 🎯 Exploring **real-world development workflows**  
+- 🤝 Open to **internships and collaborations**  
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,json,react" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,json,react" />
 </p>
 
-### 🧰 Tools & Platforms
+### Tools & Platforms
 <p>
-<img src="https://skillicons.dev/icons?i=vscode,git,github,jupyter" />
-<img src="https://img.shields.io/badge/Claude-AI-black?style=flat&logo=anthropic">
-<img src="https://img.shields.io/badge/Antigravity-Python-blue?style=flat">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,jupyter" />
+  <img src="https://img.shields.io/badge/Claude-AI-black?style=flat&logo=anthropic"/>
+  <img src="https://img.shields.io/badge/Antigravity-Python-blue?style=flat"/>
 </p>
 
-### 🗄️ Databases
+### Databases
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
-### 🎨 Design
+### Design
 <p>
-<img src="https://img.shields.io/badge/Canva-Design-blue?style=flat&logo=canva">
+  <img src="https://img.shields.io/badge/Canva-Design-blue?style=flat&logo=canva"/>
 </p>
 
-### ⚙️ Concepts & Other Skills
-- OOP, DSA, Web Development  
-- Drone Technology  
+### Core Skills
+- Object-Oriented Programming  
+- Data Structures & Algorithms  
+- Web Development  
 - AutoCAD  
+- Drone Technology  
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=16bhuvi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=16bhuvi&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=16bhuvi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=16bhuvi&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=16bhuvi&theme=tokyonight&include_all_commits=true" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/16bhuvi/16bhuvi/snake.yml" />
-</p>
-
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=16bhuvi&theme=onedark&no-frame=true&margin-w=10&row=1" />
+  <img src="https://streak-stats.demolab.com?user=16bhuvi&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 ---
 
 ## 🚀 Featured Project
 
-### 🌐 BanVerse  
-Student & Club Engagement Platform  
+### BanVerse  
+A student and club engagement platform designed to simplify communication, event management, and collaboration within campus environments.
 
 ---
 
-## 🧠 Developer Snapshot
+## 🧠 Developer Perspective
 
 ```python
 class Bhuvi:
     def __init__(self):
         self.role = "IT Engineering Student"
-        self.skills = ["Development", "Design", "Problem Solving"]
-        self.learning = ["Advanced DSA", "Cyber Security", "Real-world Projects"]
+        self.focus = ["Development", "Design", "Problem Solving"]
+        self.current_goal = "Building impactful real-world projects"
 
-    def mindset(self):
-        return "Always building 🚀"
+    def approach(self):
+        return "Consistency > Perfection"
