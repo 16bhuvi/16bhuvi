@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  🌐 <a href="https://about-bhuvi.netlify.app/">Portfolio</a> &nbsp;•&nbsp;
+  🌐 <a href="https://all-about-bhuvi.vercel.app/">Portfolio</a> &nbsp;•&nbsp;
   💼 <a href="https://www.linkedin.com/in/bhuvi-vishwakarma-447a3b217">LinkedIn</a> &nbsp;•&nbsp;
   💬 <a href="https://discord.com/users/1125007717703094384">Discord</a>
 </p>
