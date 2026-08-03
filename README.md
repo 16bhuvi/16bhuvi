@@ -1,7 +1,7 @@
 <h1 align="center">Bhuvi Vishwakarma</h1>
 
 <p align="center">
-  <i>IT Engineering Student • Developer • Designer</i>
+  <i>IT Engineering Student • Developer • Designer • Fresher </i>
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 ## 👩‍💻 Profile
 
-A third-year IT engineering student focused on building real-world applications and continuously improving problem-solving skills. Interested in development, design, and emerging technologies, with a strong inclination toward creating meaningful and scalable solutions.
+A Final year IT-Engg student focused on building real-world applications and continuously improving problem-solving skills. Interested in development, design, and emerging technologies, with a strong inclination toward creating meaningful and scalable solutions.
 
 ---
 
